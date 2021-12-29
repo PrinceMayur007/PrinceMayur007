@@ -1,11 +1,9 @@
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 [![Linkedin Badge](https://img.shields.io/badge/-mayurnarkhede007-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayurnarkhede007/)](https://www.linkedin.com/in/mayurnarkhede007/)
-[//]: # ([![Medium Badge](https://img.shields.io/badge/-@__jessicalim-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@_jessicalim)](https://medium.com/@_jessicalim))
-[//]: # ([![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me))
 [![Twitter Badge](https://img.shields.io/badge/-@Mayur_FC-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Mayur_FC)](https://twitter.com/Mayur_FC)
 [![Instagram Badge](https://img.shields.io/badge/-@immayurn-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/immayurn/)](https://instagram.com/immayurn)
 [![Gmail Badge](https://img.shields.io/badge/-mayurgnarkhede-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mayurgnarkhede@gmail.com)](mailto:mayurgnarkhede@gmail.com)
-[![Discord Badge]](https://img.shields.io/badge/-mayurnarkhede007#1992-7289DA?style=flat&logo=discord&logoColor=white&link=https://discord.com/users/760796083395231754)(https://discord.com/users/760796083395231754)
+
 
 I'm Mayur Narkhede, a passionate self-taught web developer and freelance software engineer. I like experimenting with new technologies, building small projects, and occassionally joining hackathons. I am also Machine Learning and AI enthusiast. ✨
 
