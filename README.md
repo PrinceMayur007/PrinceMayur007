@@ -7,7 +7,7 @@
 
 I'm Mayur Narkhede, a passionate self-taught web developer and freelance software engineer. I like experimenting with new technologies, building small projects, and occassionally joining hackathons. I am also Machine Learning and AI enthusiast. ✨
 
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 Here are some things I keep myself busy with:
 
 🔭 Making small projects in various technologies. 
